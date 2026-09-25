@@ -1,17 +1,16 @@
 ---
-title: "News"
+title: "Quick Links"
 layout: textlay
 sitemap: false
 permalink: /allnews.html
 ---
 
-## News
+## Quick Links
 
 <div class="jumbotron">
 {% for article in site.data.news %}
-<b>{{ article.date }}</b>
-
-{{ article.headline }}
+<b>{{ article.name }}</b>
+<p><a href="{{ article.link }}">{{ article.text }}</a></p>
 {% endfor %}
 
 </div>

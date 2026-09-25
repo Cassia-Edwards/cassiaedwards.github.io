@@ -34,8 +34,8 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Factorisation Algebras</h4>
 
-Example description
+I am interested in factorisation algebras (which I am sometimes convinced to spell with a 'z', but not always) and their connections to $\textnormal{E}_n$-algebras and higher Morita categories. In particular, I am currently working on investigating if there is an equivalence between framed $\textnormal{E}_n$-algebras and locally constant factorisation algebras on a particular stratified space. 
 </div>
 </div>

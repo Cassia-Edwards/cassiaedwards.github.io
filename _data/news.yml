@@ -1,6 +1,12 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- name: AQG Student Conference
+  text: Coming soon!
+  link: "https://www.agq-cdt.org/events/"
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- name: Hodge Club
+  text: Join our weekly meetings!
+  link: "https://hodge.maths.ed.ac.uk/?page_id=38"
 
+
+- name: Higher Algebra Reading Group
+  text: ignore
+  link: "https://www.agq-cdt.org/training_25-26/cohort-reading-groups/higher-algebra/"

@@ -43,7 +43,7 @@ pre{
 {% endif %}
 
 {% if entry.doi %}
-{% if entry.type == 'unpublished' %}
+{% if entry.type == 'unpublished'%}
 <a href="{{ entry.doi | prepend: 'https://arxiv.org/abs/' }}" target="_blank"><button class="btn btn-primary btm-sm">ARXIV</button></a>
 {% else %}
 <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-primary btm-sm">DOI</button></a>

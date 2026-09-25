@@ -4,7 +4,7 @@ layout: page
 sitemap: false
 permalink: /blogs/
 ---
-
+This might see some use, this might not! Watch this space! (Maybe) 
 <ul>
   {% for post in site.posts %}
     <li>

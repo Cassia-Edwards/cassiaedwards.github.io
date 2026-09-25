@@ -1,7 +1,7 @@
+
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Cassia Edwards
+description: Academic webpage of Cassia Edwards
 baseurl: ""
 url: ""
 
@@ -12,27 +12,19 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
-
-location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Cassia Edwards<br/>
+  PhD Student<br/>
+  University of Edinburgh, AGQ CDT
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  s2025873 at ed dot ac dot uk
+   
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
   - name: teaching
   - name: blogs
 
